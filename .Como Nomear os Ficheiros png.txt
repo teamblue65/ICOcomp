@@ -1,10 +1,10 @@
 ﻿NOME DOS FICHEIROS IMAGEM PARA COLOCAR NA LISTA
 
 
-COMPETIÇÃO-CLUBE-JORNADA
+COMPETIÇÃO-JORNADA-CLUBE
 
 Exemplo:
 
-PRLFCPJ01 - Primeira Liga FCP Jornada 1
+PRLJ1FCP - Primeira Liga FCP Jornada 1
 
-CWCFCPJ1 - Club World Cup FCP Jornada 1
+CWCJ1FCP - Club World Cup FCP Jornada 1
